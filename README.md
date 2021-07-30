@@ -1,4 +1,4 @@
-# SLAM_basic_algorithm
+# V_SLAM_algorithm
 
 1.仿真程序由python3.6编写 使用opencv3.4库函数、tensorflow1.8库函数、numpy和matplot
 
